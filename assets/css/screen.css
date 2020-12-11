@@ -1,0 +1,38 @@
+
+
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+.dontdisplay {
+    display: none;
+}
+
+
+h1 {
+    font-size: 5rem;
+    color: white;
+
+}
+
+header {
+    background-color: aqua;
+    border-radius: 2rem;
+}
+
+img {
+    width: max-content;
+}
+
+button {
+    padding: 2rem;
+    background-color: pink;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+}
