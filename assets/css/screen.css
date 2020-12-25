@@ -11,6 +11,10 @@ body {
     display: none;
 }
 
+.counter {
+    display: grid;
+    justify-content: left;
+}
 
 h1 {
     font-size: 5rem;
