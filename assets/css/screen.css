@@ -13,7 +13,8 @@ body {
 
 .counter {
     display: grid;
-    justify-content: center;
+    justify-content: left;
+    align-items: bottom;
 
 }
 
